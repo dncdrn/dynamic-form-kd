@@ -88,7 +88,7 @@ class App extends Component {
     this.setState({ current, error: '' });
     }
   showResult = () => {
-    this.setState({isShowResult: !isShowResult})
+    this.setState({isShowResult: true})
   }
 
   renderSwitch(param){
