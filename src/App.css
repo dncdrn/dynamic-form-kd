@@ -1,0 +1,24 @@
+@import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+.form-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.nav-btn{
+    position: relative;
+    margin-top: 60px;
+}
+
+.question-container{
+    height: 200px;
+    margin-top: 3em;
+}

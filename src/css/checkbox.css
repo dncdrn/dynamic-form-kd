@@ -1,0 +1,14 @@
+.option-grp{
+    height: 80%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.ant-checkbox + span{
+    font-family: 'Roboto';
+    font-size: 2.5em;
+}
+.ant-radio + span{
+    font-family: 'Roboto';
+    font-size: 2.5em;
+}
